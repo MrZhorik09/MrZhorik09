@@ -5,24 +5,21 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mrzhorik09)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/adventureszhorik)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! 
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+ Welcome to my Github! I’m <strong>Zhubanysh Burlibayev</strong>, an <strong>enthusiastic</strong> and <strong>skilled</strong> game developer with <strong>3 years of experience</strong>. I’ve led system implementations for hit titles like <strong>‘ORDINARY PONG with a chance of mixing genres’</strong> and <strong>‘Snow Tale,’</strong> as well as contributed to <strong>profitable video game</strong>.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
-
+- 👀 I’m interested in game development, programming, and creative coding.
+- 🌱 I’m currently learning advanced Unity features, backend integration, and exploring new game design patterns.
+- 💞️ I’m looking to collaborate on game development projects, tools for developers, and innovative ideas in the gaming space.
+- 📫 How to reach me: https://t.me/zhoik or zhubanyshburlibaev76@gmail.com
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I once created a fully functional game prototype in just a weekend!
 </br>
 
 📊 **This Week I Spent My Time On:**
